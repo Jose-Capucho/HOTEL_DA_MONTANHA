@@ -344,7 +344,7 @@ img{
 }
 .rate span{
     font-size: 40px;
-    font-weight: 900;
+    font-weight: 400;
     color: var(--yellow);
 }
 .room-image{
