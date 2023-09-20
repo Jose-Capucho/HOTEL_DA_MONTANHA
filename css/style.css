@@ -473,7 +473,12 @@ img{
     display: block;
     color: #FFF;
     text-decoration: none;
+    transform: 1s;
 }
+.footer a:hover{
+    color: var(--yellow);
+}
+
 .social-icons{
     list-style: none;
     display: flex;
@@ -510,9 +515,7 @@ img{
     .footer-container{
         grid-template-columns: repeat(4, 1fr);
     }
-    .footer-container div:nth-child(1) p {
-        padding-right: 20px;
-    }
+
     .contact-item{
         display: grid;
         grid-template-columns: 10% 90%;
