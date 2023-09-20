@@ -33,3 +33,15 @@ O objetivo central foi aplicar os princípios fundamentais de HTML, CSS e JavaSc
   ##
 
   # Imagens do projeto:
+
+  ![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/cf2a8f25-480f-4627-a17e-2df823ff886e)
+
+  ![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/c5cd1593-d482-483f-88af-a584e11ec5b1)
+
+  ![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/0b99701c-bb1b-4275-859e-62fc35be47b9)
+
+  ![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/70b836d9-de61-4f2d-8afd-a9fe88243a59)
+
+
+
+
