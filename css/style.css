@@ -55,10 +55,44 @@ img{
 /* header */
 .header{
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("../images/banner-img.jpg") center/cover;
+    opacity: .9;
     min-height: 100vh;
     color: #FFF;
     padding: 25px;
     display: flex;
     flex-direction: column;
     align-content: stretch;
-}   
+}
+.head-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head-top span{
+    cursor: pointer;
+    letter-spacing: 2px;
+    transition: var(--transition);
+}
+.head-top span:hover{
+    color: var(--yellow);
+}
+.head-bottom{
+    flex: 1;
+    text-align: center;
+    width: 80vw;
+    margin: 0 auto;
+}
+.head-bottom h2 {
+    padding: 22px 0;
+    font-size: 45px;
+    border-bottom: 1px solid #FFF;
+}
+.head-bottom p{
+    opacity: 0.8;
+    font-size: 20px;
+    margin: 45px auto;
+    width: 60vw;
+}
+.head-btn{
+    
+}
