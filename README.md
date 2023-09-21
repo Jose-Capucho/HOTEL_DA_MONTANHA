@@ -34,14 +34,14 @@ O objetivo central foi aplicar os princípios fundamentais de HTML, CSS e JavaSc
 
   # Imagens do projeto:
 
-  ![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/cf2a8f25-480f-4627-a17e-2df823ff886e)
+![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/985dab3a-77d0-4882-a4bc-f051aaf40f22)
 
-  ![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/c5cd1593-d482-483f-88af-a584e11ec5b1)
+![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/858c5329-be11-412d-8ffb-d8be7a05d6b4)
 
-  ![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/b59e066f-c7b8-455a-b4db-7f5fd5830a13)
+![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/b6edb33f-2a27-43fb-9ab1-37be52c5132b)
 
-  ![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/70b836d9-de61-4f2d-8afd-a9fe88243a59)
+![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/4dfb611b-550e-4977-805a-179b12008da1)
 
-
+![image](https://github.com/Jose-Capucho/HOTEL_DA_MONTANHA/assets/97485966/67ac248d-83e3-4d9f-8255-6868b1426cd8)
 
 
