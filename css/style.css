@@ -67,6 +67,8 @@ img{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-size: 20px;
+    padding: 30px;
 }
 .head-top span{
     cursor: pointer;
@@ -172,7 +174,14 @@ img{
 .sing-up, .log-in{
     background-color: var(--yellow);
     color: #FFF;
+    transition: 1s;
 }
+.sing-up:hover, .log-in:hover{
+    background: transparent;
+    color: var(--yellow);
+    border: 1px solid var(--yellow);
+}
+
 @media(max-width: 400px){
     .sidenav{
         width: 100vw;
@@ -266,6 +275,11 @@ img{
     background-color: var(--dark);
     color: #FFF;
     border: 1px solid #FFF;
+    transition: 1s;
+}
+.book-form input[type='submit']:hover{
+    color: var(--yellow);
+    border: 1px solid var(--yellow);   
 }
 .book-form label, .book-form input{
     width: 100%;
